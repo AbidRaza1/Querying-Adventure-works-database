@@ -1,0 +1,1 @@
+             sp_helptext'saleslt.udfmaxunitprice'
