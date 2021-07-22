@@ -8,7 +8,7 @@ The repository contains SQL queries which are used to query data from data base.
 
 3-Multiple tables with JOIN
 
-4-Explore set operators
+4-Set operators
 
 5-Functions and aggregate data
 
