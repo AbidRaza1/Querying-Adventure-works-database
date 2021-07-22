@@ -1,5 +1,5 @@
 
-
+----------------SQL Procedures--------------------
 
 DECLARE @Colors				
 AS TABLE (Color nvarchar(15))
@@ -30,7 +30,7 @@ FROM
 	SELECT orderyear, COUNT(Distinct CustomerID) 
 	FROM (SELECT
 
-
+------------Creating View----------------
 
 	CREATE VIEW SalesLT.vSalesOrders
 	AS
