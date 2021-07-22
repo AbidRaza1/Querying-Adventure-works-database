@@ -1,6 +1,6 @@
 # SQL Projects:
 
-The repository contains SQL queries which are used to query data from data base. Every script has its own individual objective. The queries contained performed following fucntions in general:
+The repository contains SQL queries which are used to query data from data base. Every script has its own individual objective. The queries contained performed following functions in general:
 
 1-TSQL SELECT queries
 
