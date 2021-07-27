@@ -23,3 +23,9 @@ The repository contains SQL queries which are used to query data from data base.
 10-Transact-SQL programming
 
 11-Error handling and transactions
+
+
+
+
+
+Reference: These projects/ queries are heavily inspired by "Querying data with Transact SQL", a course by Microsoft Corporation.
