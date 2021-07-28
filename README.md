@@ -1,31 +1,5 @@
 # Querying Adventure works database: 
 
-The repository contains SQL queries which are used to query data from data base. Every script has its own individual objective. The queries contained performed following functions in general:
+The repository contains queries which are performed to retrieve, sort, join and aggregate Adventure works database. Every script has its own individual objective. We have developed VIEWS, PROCEDURES, INNER, OUTTER and FULL JOINS, LOOPS using T-SQL.
 
-1-TSQL SELECT queries
-
-2-Data types and NULL
-
-3-Multiple tables with JOIN
-
-4-Set operators
-
-5-Functions and aggregate data
-
-6-Subqueries and APPLY
-
-7-Common Table Expressions
-
-8-Group sets and pivot data
-
-9-Modify data
-
-10-Transact-SQL programming
-
-11-Error handling and transactions
-
-
-
-
-
-Reference: These projects/ queries are heavily inspired by "Querying data with Transact SQL", a course by Microsoft Corporation.
+Reference: These projects/queries are heavily inspired by "Querying data with Transact SQL", a course by Microsoft Corporation.
